@@ -1,0 +1,71 @@
+  body { 
+      font: 400 1em 'Open Sans', serif;
+      background: #FFF;
+
+  }
+
+  #div_crono {
+  
+	  float: left;
+	  padding:25px;
+	  margin: 25px;
+
+	  
+  }
+  
+  #parones {
+	  padding:25px;
+	  margin:25px;
+  }
+  
+  #reloj {
+  	  font-size: 5em;
+  }
+
+  
+  .tipohora {
+	  border: solid 1px #000000;
+	  float: left;
+	  font-size: 1em;
+	  margin:20px;
+	  display: inline;
+	  box-shadow: 5px 5px 5px #000000;
+	  text-shadow:1px 1px 1px #000000;
+	  color: white;
+	  background:linear-gradient(#E9003A,#FF9900);
+	  padding:5px;
+	  margin:10px;
+
+  }
+  
+  .botonaco {
+	  font-size: 2em;
+	  padding:5px;
+	  background:linear-gradient(#AAAAAA,#646464);
+	  color: white;
+	  text-shadow:1px 1px 1px #000000;
+  }
+  
+  
+  #autor {
+      clear:both;
+      display:block;
+      float:left;
+      top:0px;
+      left:0px;
+      position: absolute;
+      text-align:left;
+  }
+  #autor p {
+      font-size: 0.9em;
+      display: inline-block;
+      background-color:#000;
+      color:yellow;
+  }
+  #autor a {
+      font-size: 0.9em;
+      display: inline-block;
+      background-color:yellow;
+      color:#000;
+  }  
+
